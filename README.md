@@ -56,5 +56,3 @@ We have exciting plans for the future of the Flutter Notes App:
  - Collaborative note sharing and editing
 
 We welcome any feedback, suggestions, or contributions to help make this app even better!
-
-Feel free to reach out to [kedlayashreeram@gmail.com](mailto:kedlayashreeram@gmail.com) for any questions or support

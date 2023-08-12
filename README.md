@@ -57,4 +57,4 @@ We have exciting plans for the future of the Flutter Notes App:
 
 We welcome any feedback, suggestions, or contributions to help make this app even better!
 
-Feel free to reach out ![here](kedlayashreeram@gmail.com) for any questions or support
+Feel free to reach out [here](kedlayashreeram@gmail.com) for any questions or support
